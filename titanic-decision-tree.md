@@ -1,17 +1,3 @@
----
-title: Titanic Decision Tree
-author: "M. Vanessa Sousa Mesquita"
-date: "`r format(Sys.time(), '%d/ %B/ %Y')`"
-output:
-     html_document:
-       highlight: textmate
-       theme: flatly
-       number_sections: yes
-       toc: yes
-       toc_float:
-         collapsed: yes
-         smooth_scroll: no
----
 
 # Pacotes
 ```{r}
